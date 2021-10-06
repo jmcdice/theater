@@ -1,0 +1,13 @@
+.app-frame {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+}
+
+.padded-bottom {
+    padding-bottom: 32px;
+}
